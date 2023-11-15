@@ -43,6 +43,7 @@ Give X_internet_ NIC a IP address while also renaming the PC to DC: <br/>
 <br />
 Install active Directory domain services: <br/>
 <img src="https://i.imgur.com/qcawaZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+  <br/>
 After install go to flag and then promote server to DC and make a domain (mine is ColinDomain.com: <br/>
 <img src="https://i.imgur.com/JPiwKg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/b6V2c3j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -76,10 +77,12 @@ Configure routing and remote access in tools and select _internet_ which is poin
 Set up DHCP server on DC to allow for clients to get IP address to access internet: <br/>
   -Installing DHCP <br/>
 <img src="https://i.imgur.com/bXhKO3G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
+  <br/>
   -Setting up scope which is the range of IP addresses going to be used <br/>
 <img src="https://i.imgur.com/sKgMQh5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/kCLOrjX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <img src="https://i.imgur.com/JlOVtqp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+  <br/>
   -Scope created and DHCP finished <br/>
 <img src="https://i.imgur.com/ZDBlENv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
