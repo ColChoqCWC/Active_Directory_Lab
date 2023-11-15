@@ -1,3 +1,5 @@
+# This is the script Used to Add list of users from names.txt
+
 $PASSWORD_FOR_USERS = "Password1" # password for the users
 $user_names = Get-Content C:\users\cchoquette\Desktop\names.txt #gets the users from the names.txt
 
