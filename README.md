@@ -1,5 +1,4 @@
-# Active_Directory_Lab
-<h1>Socket Programming</h1>
+# Active Directory Lab
 
 
 <h2>Description</h2>
